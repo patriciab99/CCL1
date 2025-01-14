@@ -1,2 +1,15 @@
 13.01.2025
-Making the diary for daily documentation
+Making the diary for daily documentation on GitHub.
+Yesterday I did mostly research to find tutorials that might help during the process of making the project.
+I compared how the tutorials differ from one another and what different methods were used to achieve certain things in the code.
+I tried to combine aspects from multiple tutorials to achieve a very basic prototype with a movable rectangle that the player can move left and right (aka the animal later on).
+I then also tried to generate objects (rectangles) falling from the sky.
+
+14.01.2025
+Things that I could do today:
+- try to make the object emojis
+- try to make the objects so that I can attach a picture to them
+- make a point score
+- make a health score
+- generate trash objects
+- connect food and trash objects to the point and health system.
