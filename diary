@@ -35,6 +35,7 @@ Things I could do today:
 20.01.2025
 Things I did today:
 - changed emojis to images
+- Fixed the picture update issue in the 2nd level with a levelsprite function to change them easily
 
 Things I could do today:
 - adapt level logic and simplify it
