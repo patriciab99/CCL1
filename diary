@@ -38,6 +38,9 @@ Things I did today:
 - Fixed the picture update issue in the 2nd level with a levelsprite function to change them easily
 - Think about the possible animations and food and trash objects
 - Doodle
+- Finished and implemented background
+- made a refresh button
+- thinking about game styling
 
 Things I could do today:
 - adapt level logic and simplify it
