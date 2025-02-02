@@ -1,6 +1,6 @@
 # 🎮 **Dumpster Dive** 
 
-> **Short Pitch**: Collect enough food to feed the little dumpster friends 🦝🐭 in this simple catcher game. But be careful to make the right choices on what to catch!
+> **Short Pitch**: Collect enough food to feed the little opossum in this simple catcher game. But be careful to make the right choices on what to catch!
 
 ---
 
