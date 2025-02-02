@@ -21,7 +21,7 @@
 
 ### Start Screen:
 <div style="text-align: center;">
-  <img src="menu.png" alt="Start Screen" width="600">
+  <img src="Startscreen_DumpsterDive.png" alt="Start Screen" width="600">
   <p>*Figure 2: Start Screen.*</p>
 </div>
 
@@ -32,26 +32,26 @@ Below are the animations used on the start, win and end screen, as well as the i
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
+  <img src="possum4.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character.*</p>
 </div>
 
 ---
 ### Start Screen:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Start Animation" width="500">
+  <img src="possumwave.gif" alt="Start Animation" width="500">
   <p>*Figure 3: Start screen animations.*</p>
 </div>
 
 ### 🏆 Win Screen:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Win Animation" width="500">
+  <img src="winpossum.gif" alt="Win Animation" width="500">
   <p>*Figure 4: Win screen animations.*</p>
 </div>
 
 ### 💀 End Screen:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="End Animation" width="500">
+  <img src="deadpossum4.gif" alt="End Animation" width="500">
   <p>*Figure 4: End screen animations.*</p>
 </div>
 
