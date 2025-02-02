@@ -1,0 +1,157 @@
+
+canvas {
+    display: block;
+    margin: auto;
+    background-image: url("./images/Background.png");
+    background-size: cover;
+    /* background: #add8e6; Light blue sky */
+    border: 2px solid #add8e6;
+  }
+body {
+    text-align: center;
+    background-color: #b0c5d7;
+  }
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  z-index: 3;
+  top: 88%;
+  left: 65%;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  position: absolute;
+  z-index: 3;
+  top: 10%;
+
+}
+
+#start-screen {
+  background-image: url("./images/start1.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.image-container {
+  position: relative;
+  height: 100vh;
+}
+
+#wave {
+  margin-top: 0;
+  background-size: cover;
+  height: 100vh;
+}
+
+#start-button {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  color: #314a5f;
+  background-color: #d9e9f5;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #5f7385;
+  border-radius: 11px;
+  top: 73%;
+  left: 67%;
+  padding: 2rem;
+  padding-left: 7rem;
+  padding-right: 7rem;
+  position: absolute;
+  z-index: 2;
+  box-shadow: -10px 10px 20px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
+}
+
+#reload-button {
+  background-color: #d9e9f5;
+  border-width: 7px;
+  border-style: solid;
+  border-color: #7d8f9e;
+  padding: 2rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  color: #5f7385;
+  border-radius: 11px;
+  top: 22%;
+  left: 43%;
+  position: absolute;
+  z-index: 2;
+  box-shadow: -10px 10px 20px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
+}
+
+#back-button {
+  background-color: #d9e9f5;
+  border-width: 7px;
+  border-style: solid;
+  border-color: #7d8f9e;
+  padding: 2rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  color: #5f7385;
+  border-radius: 11px;
+  top: 22%;
+  left: 43%;
+  position: absolute;
+  z-index: 2;
+  box-shadow: -10px 10px 20px 0 rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.19);
+}
+
+#continue-button {
+  background-color: rgb(170, 224, 239);
+  border: 0;
+  padding: 1rem;
+  color: rgb(0, 69, 139);
+  border-radius: 7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+}
+
+#end-screen {
+  background-color: #b0c5d7;
+  height: 100vh;
+}
+
+.image-end-container {
+  position: relative;
+  height: 100vh;
+}
+
+#playdead {
+  margin-top: 0;
+  background-size: cover;
+  height: 100vh;
+}
+
+#happy {
+  margin-top: 0;
+  background-size: cover;
+  height: 100vh;
+}
+
+#end-message {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  position: absolute;
+  z-index: 3;
+  top: 5%;
+  left: 30%;
+}
+
+#win-message {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  position: absolute;
+  z-index: 3;
+  top: 5%;
+  left: 20%;
+}
