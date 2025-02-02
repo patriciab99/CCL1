@@ -2,10 +2,26 @@
 
 > **Short Pitch**: Collect enough food to feed the little opossum in this simple catcher game. But be careful to make the right choices on what to catch!
 
+## 🕹️ **Game Controls**
+
+> You can use the following input to move the character
+<p>⬅️ & ➡️</p>
+<p>"A" & "D" keys</p>
+<p>mouse input🖱️</p>
+
 ---
 
 ## 🌐 **Play the Game**
-[Click here to play the game!](https://your-github-username.github.io/repository-name)
+[Click here to play the game!] https://patriciab99.github.io/CCL1/
+
+---
+
+## ‼️**Spoiler**‼️
+<p>Do NOT look at the next section if you want to find out which objects you should and shouldn't collect for yourself!!</p>
+<hr>
+<p>Good items: 🍎🍞🐸🥬🍓🍕</p>
+<p>Bad items: 🍌🍫🧅</p>
+<p>End of Spoiler</p>
 
 ---
 
@@ -13,7 +29,7 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
+  <img src="pictures/gameplay.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 1: Example of gameplay in action.*</p>
 </div>
 
@@ -21,7 +37,7 @@
 
 ### Start Screen:
 <div style="text-align: center;">
-  <img src="Startscreen_DumpsterDive.png" alt="Start Screen" width="600">
+  <img src="pictures/Startscreen_DumpsterDive.png" alt="Start Screen" width="600">
   <p>*Figure 2: Start Screen.*</p>
 </div>
 
@@ -32,39 +48,39 @@ Below are the animations used on the start, win and end screen, as well as the i
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="possum4.png" alt="Player Spritesheet" width="500">
+  <img src="pictures/possum4.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character.*</p>
 </div>
 
 ---
 ### Start Screen:
 <div style="text-align: center;">
-  <img src="possumwave.gif" alt="Start Animation" width="500">
+  <img src="pictures/possumwave.gif" alt="Start Animation" width="500">
   <p>*Figure 3: Start screen animations.*</p>
 </div>
 
 ### 🏆 Win Screen:
 <div style="text-align: center;">
-  <img src="winpossum.gif" alt="Win Animation" width="500">
+  <img src="pictures/winpossum.gif" alt="Win Animation" width="500">
   <p>*Figure 4: Win screen animations.*</p>
 </div>
 
 ### 💀 End Screen:
 <div style="text-align: center;">
-  <img src="deadpossum4.gif" alt="End Animation" width="500">
+  <img src="pictures/deadpossum4.gif" alt="End Animation" width="500">
   <p>*Figure 4: End screen animations.*</p>
 </div>
 
 ---
 ### 🍎✅ Food Objects:
 <div style="text-align: center;">
-  <img src="foodobjects.png" alt="Food Objects" width="500">
+  <img src="pictures/foodobjects.png" alt="Food Objects" width="500">
   <p>*Figure 3: Food objects.*</p>
 </div>
 
 ### 🚮❌ Trash Objects:
 <div style="text-align: center;">
-  <img src="trashobjects.png" alt="Trash Objects" width="500">
+  <img src="pictures/trashobjects.png" alt="Trash Objects" width="500">
   <p>*Figure 3: Trash objects.*</p>
 </div>
 
