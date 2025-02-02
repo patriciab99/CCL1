@@ -74,13 +74,11 @@ Below are the animations used on the start, win and end screen, as well as the i
 
 ### What went well:
 - **Creative Design:** The game genre and theme of the game seemed like a good fit that would actually work together nicely. So designing the theme and style came together very naturally, which was an enjoyable process.
-  
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- **Time Constraints:** Implementing all the features I wanted to sadly wasn't possible due to the limited time. I had a prototype of a second level but it still has some bugs that need to be fixed. There were also design elements that I would have liked to add but didn't make it in the final version due to the same reason.
+- **Bug Fixes:** Figuring out why the code isn't working the way I wanted to when there were no console errors was really painful at times and probably took away most of the time that would have been needed for other things for this project.
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+- **Make plans set small goals:** To me it was very helpful to think about what I would need to do, add or adapt in my code and write the thoughts down in for example a Word document, to sort my thoughts more easily, give them structure and have something to refer to when I get stuck while writing code.
+- **Set small goals:** Also working towards smaller goals turned out to be a good thing, so I wouldn't get too frustrated or overwhelmed when dealing with too many problems at once and wanting to achieve something very complicated in the beginning. The better approach for me was to implement small things at a time, check if those work cohesively or not, and figure out the problems one by one along the way and adjust to the changes that happen.
