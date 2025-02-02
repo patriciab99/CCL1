@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dumpster Dive</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="start-screen">
+    <div class="image-container">
+      <img id="wave" src="./images/possumwave.gif" alt="Welcome">
+       <button id="start-button">START</button>
+       <h1>Catch the falling food!</h1>
+    </div>
+  </div>
+  <div id="level-screen" style="display: none;">
+    <h2 id="level-message"></h2>
+    <p id="lives-message"></p>
+    <button id="continue-button">Continue</button>
+  </div>
+  
+  
+  <div id="end-screen" style="display:none;">
+    <div class="image-end-container">
+      <img id="playdead" src="./images/deadpossum4.gif" alt="Dead">
+      <h2 id="end-message"></h2>
+      <button id="reload-button">Retry</button>
+    </div>
+  </div>
+
+  <div id="win-screen" style="display:none;">
+    <div class="image-win-container">
+      <img id="happy" src="./images/winpossum.gif" alt="Won">
+      <h2 id="win-message"></h2>
+      <button id="back-button">Back to Start</button>
+    </div>
+  </div>
+  <canvas id="gameCanvas" width="1080" height="800" style="display:none;"></canvas>
+  
+
+  <script type="module" src="./modules/global.js"></script>
+  <script type="module" src="./modules/input.js"></script>
+  <script type="module" src="./modules/game.js"></script>
+  <script type="module" src="./modules/player.js"></script>
+  <script type="module" src="./modules/objects.js"></script>
+  <script type="module" src="./modules/objectSpawner.js"></script>
+</body>
+</html>
