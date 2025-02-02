@@ -58,13 +58,13 @@ Below are the animations used on the start, win and end screen, as well as the i
 ---
 ### 🍎✅ Food Objects:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Food Objects" width="500">
+  <img src="foodobjects.png" alt="Food Objects" width="500">
   <p>*Figure 3: Food objects.*</p>
 </div>
 
 ### 🚮❌ Trash Objects:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Trash Objects" width="500">
+  <img src="trashobjects.png" alt="Trash Objects" width="500">
   <p>*Figure 3: Trash objects.*</p>
 </div>
 
