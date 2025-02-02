@@ -26,24 +26,29 @@ Things I did today:
 - Levelscreen Overlay with transparency and position
 
 17.01.2025
-Things I could do today:
+Things I did today:
 - Fix and finish the score
 - Change the player image for the next level.
-- 3rd Level???????????????
-- Different Viech
+- Start drawing background and an object for testing purposes
 
 20.01.2025
 Things I did today:
 - changed emojis to images
-- Fixed the picture update issue in the 2nd level with a levelsprite function to change them easily
+- Fixed the picture update issue in the 2nd level with a level sprite function to change them easily
 - Think about the possible animations and food and trash objects
-- Doodle
 - Finished and implemented background
 - made a refresh button
 - thinking about game styling
 
-Things I could do today:
+21.01.2025:
 - adapt level logic and simplify it
-- Spriteshit
-- Different Viech for every Level
-- Research & try different art styles
+- draw falling objects
+
+22.01.2025:
+- fix issues with the logic, focus on the first level
+- draw falling objects and adapt after testing
+
+23.01.2025:
+- draw animations for the start, end and win screens
+- adapt the style sheet to make it look a bit nicer
+- prepare stuff for presentation on Friday
